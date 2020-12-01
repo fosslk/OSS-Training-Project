@@ -1,1 +1,1 @@
-# Software-Training-Project
+# OSS-Training-Project
