@@ -10,6 +10,7 @@
 - E-Commerce Platforms
 - E-Learning Platforms
 - Email Clients
+- File Sharing
 
 ## Module Structure
 
