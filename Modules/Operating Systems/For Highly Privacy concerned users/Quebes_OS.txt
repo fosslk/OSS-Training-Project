@@ -1,0 +1,8 @@
+Quebes OS
+
+■ One of the three most secure and privacy oriented OS recommended by Edward Snowden.
+■ Linux based.
+■ All the traffic is relayed through the Tor network.
+■ Every application is opened in a Sandbox/Virtual Box (customizable)
+■ As every application is opened in a sandbox, this OS requires a reasonable performance. (eg: Minimum 16GB of RAM).
+■ This OS is made based on ​ Whonix ​ and ​ Tails

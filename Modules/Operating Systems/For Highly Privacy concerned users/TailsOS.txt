@@ -1,0 +1,7 @@
+Tails OS
+
+■ One of the three most secure and privacy oriented OS recommended by Edward Snowden.
+■ Linux based.
+■ All the traffic is relayed through the Tor network.
+■ It has got only a live boot, which will not have any digital fingerprints.
+■ Even though it has got live boot and doesn’t save any data, the user can make a persistent storage.

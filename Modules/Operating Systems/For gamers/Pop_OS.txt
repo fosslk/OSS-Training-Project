@@ -1,0 +1,5 @@
+Pop OS
+■ hybrid graphics support
+■ Automatic Window Tiling
+■ Smooth animations, but still feather-light on system resources
+■ Pop!_OS -- for both Radeon and Nvidia gamers

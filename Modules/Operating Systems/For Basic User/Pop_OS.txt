@@ -1,0 +1,6 @@
+Pop OS
+
+■ Does not collect or store any info from user installations
+■ Ubuntu-based and Good Hardware support
+■ Handy keyboard shortcuts for mouse-free usage
+■ Flatpack support added in Pop!_Shop

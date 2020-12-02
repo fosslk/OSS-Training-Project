@@ -1,0 +1,8 @@
+ElementaryOS
+
+■ macOS like aesthetics
+■ Simple and clean UI
+■ High privacy standards
+■ Built-in AppCenter
+■ Includes features like multi-tasking view, do not disturb view and picture in picture mode
+■ Perfect replacement for both Windows and macOS users who wants to switch to Linux
