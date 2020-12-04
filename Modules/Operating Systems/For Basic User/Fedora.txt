@@ -1,8 +1,0 @@
-Fedora
-
-■ Straight forward Simple UI
-■ Tons of flavours
-■ Wide range of supported apps and software
-■ Large Community Support
-■ Backed by RedHat
-■ Flatpak and Snap packages
