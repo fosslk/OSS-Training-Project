@@ -11,7 +11,7 @@
 - Low system requirements
 - Tons of Ubuntu flavours
 - Wide range of supported apps and software
-<br >
+
 
 **Fedora**
 - Straight forward Simple UI
@@ -20,14 +20,14 @@
 - Large Community Support
 - Backed by RedHat
 - Flatpak and Snap packages
-<br >
+
 
 **Pop OS**
 - Does not collect or store any info from user installations
 - Ubuntu-based and Good Hardware support
 - Handy keyboard shortcuts for mouse-free usage
 - Flatpack support added in Pop!_Shop
-<br >
+
 
 **Elementary OS**
 - Elementary OS Has a Clear Identity and Vision
@@ -35,7 +35,7 @@
 - This OS has its own AppCenter & Default Apps
 - macOS like aesthetics
 - elementary OS has a well-versed privacy policy
-<br >
+
 
 ## For Die-hard Windows user
 
@@ -51,14 +51,14 @@
 various media applications
 - Windows like os
 - Very Fast Performances
-<br >
+
 
  **Linux Lite**
 - Very easy to shift from Windows 7
 - Lightweight
 - Low system requirements
 - Simple Windows Familiar UI
-<br >
+
 
 ## For Highly Privacy concerned users
 **Quebes OS**
@@ -70,7 +70,7 @@ Edward Snowden.
 - As every application is opened in a sandbox, this OS requires a
 reasonable performance. (eg: Minimum 16GB of RAM).
 - This OS is made based on ​ Whonix ​ and ​ Tails
-<br >
+
 
 **Whonix OS**
 - One of the three most secure and privacy oriented OS recommended by
@@ -78,7 +78,7 @@ Edward Snowden.
 - Linux based.
 - All the traffic is relayed through the Tor network.
 - Minimum requirement of RAM is 4GB.
-<br >
+
 
 **Tails OS**
 - One of the three most secure and privacy oriented OS recommended by
@@ -88,7 +88,7 @@ Edward Snowden.
 - It has got only a live boot, which will not have any digital fingerprints.
 - Even though it has got live boot and doesn’t save any data, the user can
 make a persistent storage.
-<br >
+
 
 ## For those who like macOS
 
@@ -101,7 +101,7 @@ make a persistent storage.
 picture in picture mode
 - Perfect replacement for both Windows and macOS users who wants to
 switch to Linux
-<br >
+
 
 ## For gamers
 
