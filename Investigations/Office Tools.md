@@ -3,18 +3,6 @@
 
 By IIT Women in Foss representative, Buhushika Kumarage
 
-**[The basic concept of Office Tools](#_3p81074rgcdu) 3**
-
-**[Word Processing softwares](#_hfn9cxnpjkgu) 4**
-
-**[Spreadsheets](#_ett6tcjvmhb6) 5**
-
-**[Database systems](#_c43vqdohja62) 8**
-
-**[Presentation softwares](#_rf1i6zovh932) 10**
-
-**[Educating on Office Tools](#_283cnppo6fze) 12**
-
 ### The basic concept of Office Tools
 
 The tutorial content on Office tools should be focused on creating, updating and maintaining documents, handling large amounts of data, creating presentations, scheduling, etc. are called office tools. The main criteria the Office tools divide are,
