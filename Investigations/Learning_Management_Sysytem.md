@@ -1,13 +1,4 @@
-<p align="center">
-    <img
-       alt="E_learn"
-      src="http://eduadvice.in/images/uploads/title/27442020044438ONLINE_LEARNING.jpg"
-      width="800"
-    />
-  </a>
-</p>
-
-# Online Learning Management Systems
+# Learning Management Systems 
 
 ## Moodle  (https://github.com/moodle/)
 
@@ -111,8 +102,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
  **Pricing :**
 
 * No premium options available. 
-
-<hr>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## OpenOLAT (https://github.com/OpenOLAT)
 
@@ -134,7 +124,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 * Library management
 * Developer-friendly
 
-<hr>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Chamilo (https://github.com/chamilo)
 
@@ -162,7 +152,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 * Surveys
 * Social network features
 
-<hr>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Open edX     (https://github.com/edx/edx-platform)
 
@@ -215,7 +205,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 * Collaborative workspaces
 * Events management
 
-<hr>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Sakai     (https://github.com/sakaiproject/sakai)
@@ -242,7 +232,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 * Tests and quiz management
 * REST-API support
 
-<hr>
+
 
 
 
