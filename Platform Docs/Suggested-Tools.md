@@ -40,3 +40,10 @@
 - User dashboard
 - Video player with playlist of course content. (Like Udemy, Coursera)
 - Course management
+
+
+### Things to consider when choosing a platform
+
+- Contains features matches with our requirements
+- System requirements
+- Free/Paid
