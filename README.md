@@ -1,4 +1,4 @@
-# OSS-Training-Project
+# Open Source Software Training Project
 
 Information regarding the community project focused on improving the awareness of Open Source Softwares & Tools 💻
 
