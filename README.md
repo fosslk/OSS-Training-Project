@@ -15,3 +15,16 @@ Information regarding the community project focused on improving the awareness o
     |   └── Suggested-Tools.md      // Suggestions for the platform, which to be implemented
     └── README.md                   // Readme file
 ```
+
+## Milestone Plan
+
+
+| Task | Status |
+| ----------- | ----------- |
+| Module Selection | :white_check_mark: |
+| Initial Investigation  | :construction: |
+| Course Structure Completion | :white_check_mark: |
+| Finalize Learning Platform | :construction: |
+| Deep Investigation | :construction: |
+| Course Content Arrangement | :soon: |
+| Convert Content as Learning Materials | :soon: |
