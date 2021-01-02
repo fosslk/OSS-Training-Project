@@ -28,6 +28,10 @@ Each course will be structured based on this abstract structure. Course may have
 
 [TODO] fill me with a description
 
+## References
+
+[TODO] fill me with a description
+
 ## Quiz
 
 [TODO] fill me with a description
