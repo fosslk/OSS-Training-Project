@@ -8,6 +8,7 @@ Each course will be structured based on this abstract structure. Course may have
 
 ##  Introduction
  - why we choose
+ - Learning outcome
 
 [TODO] fill me with a description
 
