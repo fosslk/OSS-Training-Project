@@ -18,7 +18,7 @@ jobs:
       - uses: unfor19/replacer-action@v1.0.2
         name: Update README.md file
         with:
-          src-file-path: "test_results.log"
+          src-file-path: "link_ref.log"
           dst-file-path: "README.md"
           start-value: "<!-- replacer_start -->"
           end-value: "<!-- replacer_end -->"
