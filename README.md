@@ -30,9 +30,3 @@ Information regarding the community project focused on improving the awareness o
 | Convert Content as Learning Materials | :soon: |
 
 
-## Autogenerate
-
-<!-- replacer_start -->
-
-
-<!-- replacer_end -->
