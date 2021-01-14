@@ -1,0 +1,28 @@
+name: Update README.md
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - "README.md"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Prepare source file
+        run: |
+          echo tree -tf --noreport -I '*~' --charset ascii $1 | sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g' > > test_results.log
+      - uses: unfor19/replacer-action@v1.0.2
+        name: Update README.md file
+        with:
+          src-file-path: "test_results.log"
+          dst-file-path: "README.md"
+          start-value: "<!-- replacer_start -->"
+          end-value: "<!-- replacer_end -->"
+          git-user-name: "GitHub Actions"
+          git-user-email: "githubactions@meirg.co.il"
+          git-commit-msg: "Updated by GitHub Actions"
+          git-skip-commit: false
+          git-skip-push: false
+          create-backup: true
