@@ -4,6 +4,8 @@ on:
     branches: [master]
     paths-ignore:
       - "README.md"
+  workflow_dispatch:
+
 
 jobs:
   update-readme:
