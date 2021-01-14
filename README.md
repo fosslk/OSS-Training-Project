@@ -28,3 +28,11 @@ Information regarding the community project focused on improving the awareness o
 | Deep Investigation | :construction: |
 | Course Content Arrangement | :soon: |
 | Convert Content as Learning Materials | :soon: |
+
+
+## Autogenerate
+
+<!-- replacer_start -->
+
+
+<!-- replacer_end -->
