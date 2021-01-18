@@ -1,7 +1,6 @@
 ##
 # Report on Office Tools
 
-By IIT Women in Foss representative, Buhushika Kumarage
 
 ### The basic concept of Office Tools
 
@@ -26,13 +25,12 @@ Word Processing software are intended to create, storing and manipulating text d
 
 The best examples for word processing software are,
 
-- MS-Word: Retail Cross-Platform word processor
-- WordPad: Retail windows only word processor
-- WordPerfect: Retail Cross-Platform word processor
-- Google Docs: Freeware Cloud Based word processor
-- LibreOffice Writer: Open Source word processor
+-	[LibreOffice Writer](https://www.libreoffice.org/discover/writer/)
+-	[Apache OpenOfiice Writer](https://www.openoffice.org/product/writer.html)
+- [WPS Office Writer](https://www.wps.com/writer)
 
-From the above examples the most popular softwares are (in popularity order), Office word (online), Google Docs and LibreOffice Writer.
+
+From the above the most popular softwares is LibreOffice Writer.
 
 LibreOffice Writer is the free and open-source word processor. Writer is a word processor similar to MS Word and Corel&#39;s Word Perfect with many similar features, and file format compatibility.
 
@@ -56,7 +54,7 @@ It has features like
 - Database integration, including a bibliography database
 - MailMerge
 - Scriptable and Remote Controllable via the UNO API
-- Open Type stylistic sets and character variants of fonts are not selectable from the menus, but can be specified manually in the font window. will set the font to stylistic set 6 and choose character variant 3. This is based on the same syntax for [Graphite](https://en.wikipedia.org/wiki/Graphite_(SIL)) font features.
+- Open Type stylistic sets and character variants of fonts are not selectable from the menus, but can be specified manually in the font window. will set the font to stylistic set 6 and choose character variant 3. 
 
 ###
 
@@ -76,11 +74,12 @@ Their sole purpose is to,
 
 The best examples for spreadsheet softwares are,
 
-- MS-Excel: Retail Cross-Platform spreadsheet package
-- Google Sheets: Freeware Cloud Based spreadsheet package
-- LibreOffice Calc: Open Source spreadsheet package
+- [Gnumeric](http://www.gnumeric.org/)
+-	[LibreOffice Calc](https://www.libreoffice.org/discover/calc/)
+-	[Apache OpenOffice Calc](https://www.openoffice.org/product/calc.html)
 
-The most popular spreadsheet software are EtherCalc,libreOffice Calc
+
+The most popular spreadsheet software is LibreOffice Calc
 
 - Calc supports 1 million rows in a spreadsheet with macro references to each cell.
 - Calc is capable of opening and saving most spreadsheets in MS excel format. Calc is also capable of saving spreadsheets as PDF files.
@@ -107,37 +106,26 @@ They involve in,
 
 The main database management softwares are,
 
-- [Airtable](https://blog.capterra.com/free-database-software/#1)
+- [LibreOffice Base](https://www.libreoffice.org/discover/base/)
+-	[DB browser for SQlite](https://sqlitebrowser.org/)
+-	[Kexi](https://calligra.org/kexi/)
 
-- [Graph DB](https://blog.capterra.com/free-database-software/#2)
+**LibreOffice Base** it supports multi-user engines including open source Mysql, MariaDB and PostgreSQL.There are built in wizards and table definitions to make it easy for first time users to start building tables, writing queries, creating forms and reports.
+LibreOffice Base features include,
 
-- [MariaDB (Opensource)](https://blog.capterra.com/free-database-software/#3)
+-	Allow users to create, access, modify and view databases and their data.
+-	This is done providing users with a graphical user interface providing users with four main tools: tables, queries, forms and reports.
+-	Facilitates as a front-end to interact with various other database systems including MS Access, Maria DB and PostgreSQL
 
-- [PostgreSQL (Opensource)](https://blog.capterra.com/free-database-software/#4)
+**DB browser for SQLite** enables users to create and use SALite database files without having to know complex SQL commands. They have an interface similar to spreadsheet and a pre-built wizard.
 
-- [QuintaDB](https://blog.capterra.com/free-database-software/#5)
-
-- [Sonadier](https://blog.capterra.com/free-database-software/#6)
-
-- MariaDB is an open source relational database for data storage, data insertion into tables, data modifications, and data retrieval. As an open source solution, the tool is free to use and you can get started by downloading the software on your desktop or laptop.
-
-Pros: Users mention that MariaDB&#39;s open source community consist of active members who roll out patches and updates regularly.
-
-Cons: Users mention that the tool lacks a graphical user interface and users can operate the tool only by using the command line.
-
-- PostgreSQL is an open-source database that comes with features such as data indexing, user configuration settings, data import/export, and version control.
-
-While PostgreSQL is a relational database, it also allows creating NoSQL databases with programming languages such as Python and JSON.
-
-**Pros** : Users mention that the tool has a large open source community that has built several plugins for the tool, improving its functionality.
-
-**Cons** : Users mention that it takes a long time to install and configure the solution.
+**Kexi** is a database application for KDE desktop, but its not limited for KDE users. It has standard features to design,store data and do queries and process data.
 
 ### Presentation softwares
 
 A Presentation Tool is a software package used to display data and information in the form of a slide show. The information is broken into small pieces called slides. It has three major parts: editor that allows formatting and editing of text, method used for inserting and manipulating graphic images, screenshots etc, slide-show system to display the content in form of a slide show.
 
-The play a vital role in all field as,
+They play a vital role in all field as,
 
 - Digital presentations are excellent mediums for teaching activities, easy to create, use, copy store and transport.
 - The use of presentation software encourages use of all four language skills: Reading, Writing, Speaking and Listening.
@@ -146,13 +134,13 @@ The play a vital role in all field as,
 
 The most common presentation tools are,
 
-- LibreOffice Impress
-- [WPS Presentation](https://24slides.com/presentbetter/top-10-free-presentation-tools-corporate-presenters/#3_WPS_Presentation)
-- [FreeOffice 2018&#39;s Presentation](https://24slides.com/presentbetter/top-10-free-presentation-tools-corporate-presenters/#4_FreeOffice_2018s_Presentation)
-- [Focusky](https://24slides.com/presentbetter/top-10-free-presentation-tools-corporate-presenters/#5_Focusky)
-- [SlideDog Free](https://24slides.com/presentbetter/top-10-free-presentation-tools-corporate-presenters/#6_SlideDog_Free)
+-	[LibreOffice Impress](https://www.libreoffice.org/discover/impress/)
+- [WPS Presentation](https://www.wps.com/presentation)
+-	[FreeOffice 2018’s Presentation](https://www.freeoffice.com/en/freeoffice-presentations)
+- [Focusky](https://focusky.com/)
 
-**LibreOfice Impress** is the similar MS powerpoint, andCorel presentations by [Corel](https://es.wikipedia.org/wiki/Corel) .
+
+**LibreOfice Impress** .
 
 Like the entire LibreOffice package, Impress is free software that can be used on multiple platforms, including Linux,Mac OS,MS windows and FreeBSD.
 
@@ -163,33 +151,17 @@ Its features include
 - Many of the tools for creating vector graphics in Libre Office Draw are also in Impress.
 - Use of templates.
 - You can import and modify and export Microsoft Powerpoint presentations.
-- Export the presentation to PDF and SWF .
+- Export the presentation to PDF and SWF.
 
 ###
 
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
+---
 
 
 ### Educating on Office Tools
 
 There are several factors to consider for the educating purposes of office tools
 
-1. Pricing
-
-There are several softwares which are available as free softwares are updated as cross platform ones which should be purchased on monthly subscription
 
 1. Provision of Software
 
@@ -197,7 +169,7 @@ One of the main topics to be discussed is on how the user is given accessibility
 
 1. Installation of Software
 
-For the purpose of providing and installing softwares users should be given a clear demographic tutorial to get a better understanding.Generally office tools like Word Processing,spreadsheet and presentation have a simple installing procedure however database softwares like MySQL requires a detailed step by step analysis.
+For the purpose of providing and installing softwares users should be given a clear demographic tutorial to get a better understanding.
 
 1. Training and educating
 
