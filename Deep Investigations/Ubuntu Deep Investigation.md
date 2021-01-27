@@ -44,6 +44,9 @@ Ubuntu has great community support when you stack with some problem you can simp
 - Local language support
 - Mailing lists
 - Access free documentation
+&nbsp;
+
+
 
 - [Ubuntu Forum](https://ubuntuforums.org/)
 
