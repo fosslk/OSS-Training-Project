@@ -94,34 +94,42 @@ There two types of Ubuntu flavors; official and unofficial. The differences betw
 - Official flavors are customized based on the general requirements while unofficial flavors are customized based on the particular requirements of the company or community which customizes them.
 
 - Official flavors are available to download and use for everyone. Unofficial flavors may or may not be available for everyone. The company or community, which customizes them, decides whether they will be available for everyone or not.
+&nbsp;
 
 **Ubuntu flavors**
 
 Ubuntu flavors offer a unique way to experience Ubuntu, each with its own choice of default applications and settings. Ubuntu flavors are backed by the full Ubuntu archive for packages and updates.
+&nbsp;
 
 **Kubuntu**
 
 Kubuntu offers the KDE Plasma Workspace experience, a good-looking system for home and office use.
+&nbsp;
 
 **Lubuntu**
 
 Lubuntu is a light, fast, and modern Ubuntu flavor using LXQt as its default desktop environment. Lubuntu used to use LXDE as its default desktop environment.
+&nbsp;
 
 **Ubuntu Budgie**
 
 Ubuntu Budgie provides the Budgie desktop environment which focuses on simplicity and elegance. It provides a traditional desktop metaphor-based interface utilizing a customizable panel-based menu-driven system.
+&nbsp;
 
 **Ubuntu Kylin**
 
 The Ubuntu Kylin project is tuned to the needs of Chinese users, providing a thoughtful and elegant Chinese experience out-of-the-box.
+&nbsp;
 
 **Ubuntu MATE**
 
 Ubuntu MATE expresses the simplicity of a classic desktop environment. Ubuntu MATE is the continuation of the GNOME 2 desktop which was Ubuntu’s default desktop until October 2010.
+&nbsp;
 
 **Ubuntu Studio**
 
 Ubuntu Studio is a multimedia content creation flavor of Ubuntu, aimed at the audio, video, and graphic enthusiast or professional.
+&nbsp;
 
 **Xubuntu**
 
@@ -141,145 +149,141 @@ Web Browsers
 - Firefox
 
 - Google Chrome
-
 - Brave
+&nbsp;
 
 Music Applications
 
 - Sayonara
-
 - Audacity
-
 - MusicBrainz Picard
+&nbsp;
 
 Streaming Music Applications
 
 - Spotify
-
 - Nuvola music player
+&nbsp;
 
 Video Players
 
 - VLC
-
 - MPV
+&nbsp;
 
 Cloud Storage Service
 
 - Dropbox
-
 - pCloud
+&nbsp;
 
 Image Editors
 
 - GIMP
-
 - Inkscape
+&nbsp;
 
 Paint applications
 
 - Krita
-
 - Pinta
+&nbsp;
 
 Photography applications
 
 - digiKam
-
 - Darktable
+&nbsp;
 
 Video editors
 
 - Kdenlive
-
 - Shotcut
+&nbsp;
 
 Image and video converter
 
 - Xnconvert
-
 - Handbrake
+&nbsp;
 
 Screenshot and screen recording tools
 
 - Shutter
-
 - Kazam
+&nbsp;
 
 Office suits
 
 - LibreOffice
-
 - WPS Office
+&nbsp;
 
 Downloading tools
 
 - youtube-dl
-
 - uGet
+&nbsp;
 
 Code Editors
 
 - Atom
-
 - Visual Studio Code
+&nbsp;
 
 PDF and eBook related applications
 
 - Calibre
-
 - Okular
+&nbsp;
 
 Messaging applications
 
 - Skype
-
 - Rambox
+&nbsp;
 
 Notes and To-do List applications
 
 - Simplenote
-
 - Remember The Milk
+&nbsp;
 
 Password protection and encryption
 
 - EncryptPad
-
 - Gnome Encfs Manager
+&nbsp;
 
 Gaming
 
 - Steam
-
 - PlayOnLinux
+&nbsp;
 
 Package Managers[Intermediate to advanced users]
 
 - Gdebi
-
 - Synaptic
+&nbsp;
 
 Backup and Recovery tools
 
 - Timeshift
-
 - TestDisk[Intermediate Users]
+&nbsp;
 
 System Tweaking and Management Tools
 
 - GNOME/Unity Tweak Tool
-
 - UFW Firewall
-
 - Stacer
+&nbsp;
 
 Other Utilities
 
 - Neofetch
-
 - Etcher
-
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
