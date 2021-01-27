@@ -37,13 +37,13 @@
 
 Ubuntu has great community support when you stack with some problem you can simply search and find quiz answer. And also there are many ways to contact the ubuntu community. You can choose any platform that is suitable for you.
 
-` `Ubuntu forums
-` `Chat (IRC)
-` `Launchpad Answers
-` `AskUbuntu
-` `Local language support
-` `Mailing lists
-` `Access free documentation
+- Ubuntu forums
+- Chat (IRC)
+- Launchpad Answers
+- AskUbuntu
+- Local language support
+- Mailing lists
+- Access free documentation
 
 - [Ubuntu Forum](https://ubuntuforums.org/)
 
