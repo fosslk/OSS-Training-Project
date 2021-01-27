@@ -48,17 +48,17 @@ Ubuntu has great community support when you stack with some problem you can simp
 
 
 
-- [Ubuntu Forum](https://ubuntuforums.org/)
+### [Ubuntu Forum](https://ubuntuforums.org/)
 
 This is a community of experts who share information, answer questions and train Ubuntu users. If you’re looking to ask questions on how to use your Ubuntu computer, then this is a warm and welcoming place for both new and experienced users. Most new-user help is in English. There are subforums for project teams, LoCos, developers, and many others.
 
-- [Ask Ubuntu](https://askubuntu.com/)
+### [Ask Ubuntu](https://askubuntu.com/)
 
 This is a collaboratively edited question and answer site for Ubuntu users and developers. If you’re looking to ask questions on how to use your Ubuntu computer, then this is the place to go. Instead of posting like a mailing list or forum, this site works by you repeatedly editing your question with what you’ve learned about your problem, and then users can rate the quality of the questions and answers by voting. If you’re interested in learning how the site works, check out this guide 74.
 
 This site is English only if you need support in another language, see Launchpad Answers below.
 
-- [Community Hub](https://discourse.ubuntu.com/)
+### [Community Hub](https://discourse.ubuntu.com/)
 
 The Ubuntu Community Hub is where contributors shape ideas through open discussions
 &nbsp;
