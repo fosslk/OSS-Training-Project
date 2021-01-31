@@ -89,7 +89,7 @@ Its features includes,
 
 - Ability to read/write Open document (ODF), Excel (XLS), CSV and several other formats.
 - Support for many functions, including those for imaginary numbers, as well as financial and statistical functions.
-- Supports 1 million rows in a spreadsheet, making LibreOffice spreadsheets more suitable for heavier scientific or financial spreadsheets.However, the number of columns is restricted to at most 1024, much lower than Excel&#39;s limit of 16384
+- Supports 1 million rows in a spreadsheet, making LibreOffice spreadsheets more suitable for heavier scientific or financial spreadsheets. However, the number of columns is restricted to at most 1024, much lower than Excel & limit of 16384
 - Up to now, new functions such as IFS, Switch TEXT JOIN, MAXIFS, MINIFS functions, etc. were available only in Excel 2016 and later. LibreOffice Calc can use them.
 
 ### Database systems
