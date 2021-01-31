@@ -16,4 +16,3 @@ Information regarding the community project focused on improving the awareness o
     └── README.md                   // Readme file
 ```
 
-
