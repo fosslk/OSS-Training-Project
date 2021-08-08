@@ -64,9 +64,11 @@
 
 **Cons**
 - You can not do a lot of customization with Prestashop.
+    - Not possible to change the position of Customization field and put it below of the every combinations of that product
+    - Having some troubles with associate a price with a customization as there are no hooks or methods in core classes to save the price.
 - You will need either to purchase add-ons or hire a developer to do any custom work in your store.
 
-## What can SLIIT team offer your business?
+## What do we recommend for your business?
 
 ### Magento
 
