@@ -60,7 +60,6 @@
 - It allows you to sell downloadable products.
 - It supports one page checkout.
 - It supports shipping discounts.
-- It offers full backend support to allow you to manage inventory, shipping, customers etc.
 
 **Cons**
 - You can not do a lot of customization with Prestashop.
