@@ -44,7 +44,7 @@ Subscription plans include:
 - **Free:** $0 (50 users, 200MB*
 - **Starter:** $80/year (50 users, 200MB) with some add-on features*.
 - **Moodle for School:**
-   - Mini – $250/year (100 users, 200MB)
+   - Mini: $250/year (100 users, 200MB)
    - Small: $500/year (200 users, 400MB)
    - Medium: $1,000/month (500 users, 1GB)*
 
