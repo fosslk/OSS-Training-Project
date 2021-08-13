@@ -1,6 +1,6 @@
 # Nextcloud
 
-# Table of contents
+## Table of contents
 
 - [Objective](#objective)
 - [Introduction](#introduction)
@@ -12,6 +12,8 @@
         - [Server](#server)
         - [Desktop Client](#desktop-client)
         - [Web Application](#web-application)
+    - [Prerequisites for manual installation](#prerequisites-for-manual-installation)
+    - [Installation on Ubuntu 20.04 LTS](#installation-on-ubuntu-20.04-lts)
 - [Features](#features)
 - [FAQ](#faq)
     - [References](#references)
@@ -29,11 +31,49 @@ By the end of this course, you will be able to,
 
 ##  Introduction
 
-Nextcloud is a fully featured on-premises solution to share and collabrate documents, send and receive emails, manage all audio/video conferencings, manage contact, manage schedules and etc.
+Nextcloud is a fully featured on-premises solution to share and collabrate documents, send and receive emails, manage all audio/video conferencings, manage contact, manage schedules and etc. Next cloud is scalable from home office solutions to full sized data centre solutions that support milions of users.
+
+Nextcloud permits user and group administration via [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) or [OpenID](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol).Content can be shared by defining granular read/write permissions between users and groups. Alternatively, Nextcloud users can create public URLs when sharing files. Logging of file-related actions, as well as disallowing access based on file access rules is also available.
+
+Nextcloud can be extended with plugins to add extra functionalities to the system. **Nextcloud App store** could be found [here](https://apps.nextcloud.com/) and it contains **more than 200 plugins**. Some of the functionalities that you can add to Nextcloud are as follows.
+
+- Calendars
+- Forms
+- URL shortening services
+- Web analytics
+- Map viewers
+- Ebook viewers
+- Browser based text editors
+
+and much more.
 
 ### Why we choose
 
-[TODO] fill me with a description
+Nextcloud is the most popular self-hosted EFSS (**E**nterprise **F**ile **S**ync and **S**hare) and Content Collaboration Platform. Hence following features make that Nextcloud is the best choice among others.
+
+- **Security**
+    - Nextcloud is developed in a security-focused process. In that manner, Nextcloud provide numerous industry-leading features to ensure the security of their system such as 2-factor authentication, maching-learning based login protection, brute-force protection, end-to-end and server-side encryption.
+
+- **Largest ecosystem**
+
+    - With the support of add-on integration Nextcloud provides largest ecosystem with widest range of add-on capabilities to increase the security capablities, team prouctivity and infrastrcture features.
+
+- **Easy to use**
+
+    - Nextcloud is very easy to implement in a self-hosted server, hence it eliminates the headaces of system enginners in the industry. As well as, Nextcloud provides a fully featured but not overwhelming user interface which signifies the user friedliness of the system from the perspective of a regular user.
+
+- **Large community support**
+
+    - Nextcloud has large community support not only in the development perspective as well as there is large community to answer questions which occur when using Nextcloud on day-to-day basis. With the large community of the developers, it helps to debug and improve the system in a short time as well. The community forum of Nextcloud, which is **Nextcloud Forum** could be accessed from [here](https://help.nextcloud.com/)
+
+- **Accessibility features**
+    - Nextcloud provides many accessibility features to make their services available for a wider user base such as
+        - Keyboard and screen reader navigation
+        - WCAG 2.1 - compliant contrast
+        - Dyslexia - friendly font
+
+- **Free client software**
+    - Nextcloud’s client apps for Android, iOS and  desktop systems allow you to manage your data, at ease.
 
 ### Learing outcomes
 
@@ -63,7 +103,8 @@ Here are the recommended system requirements for running a on-premises NextCloud
     - __Apache 2.4 with mod_php or php_fpm (recommended)__
     - Nginx with php-fpm
 - PHP Runtime
-    - __Version 7.4 (recommended)__
+    - __Version 8.0 (recommended)__
+    - Version 7.4
     - Version 7.3
 - Memory
     - Memory requirements for running a NextCloud server vary depending on the number of users, files and volume of server activity. Recommended minimum memory for NextCloud server is __512MB__.
@@ -97,28 +138,9 @@ For the best experience with the web interface use the latest and supported vers
 
 Up-to-date system requirements for running a next-cloud server can be found [here](https://docs.nextcloud.com/server/latest/admin_manual/installation/system_requirements.html).
 
-## Features
+### Prerequisites for manual installation
 
-- Nextcloud is built with security in mind. 
-    - Advanced login protection using Machine Learning
-    - 2-factor authentication
-    - Brute force protection
-    - Video verification
-    - End-to-end and server-side encryption
-    
-    are some of those security features. They also have a bug-bounty program, showing their confidence in their security measures.
-- Large ecosystem
-    - Nextcloud is the most deployed self-hosted file sync and content collaboration platform.
-    - Many add-on capabilities are found on nextcloud, for security capabilities and collaborative team productivity boosts.
-- Built with user in mind
-    - Nextcloud does not overwhelm the user with its power. The user interface is designed so that the users can easily get their work done, without worrying very much about the unnecessary technicalities.
-    - Accessibility features to make their services available for a wider user base.
-        - Keyboard and screen reader navigation
-        - WCAG 2.1 - compliant contrast
-        - Dyslexia - friendly font
-- Free client software
-    - Nextcloud’s client apps for Android, iOS and  desktop systems allow you to manage your data, at ease.
-
+### Installation on Ubuntu 20.04 LTS
 
 ## FAQ
 
