@@ -41,14 +41,14 @@ Free to use. Moodle’s open-source code allows anyone to install it in their ow
 Pricing based on the number of users and file storage.
 
 Subscription plans include:
-- **Free:*- $0 (50 users, 200MB*
-- **Starter:*- $80/year (50 users, 200MB) with some add-on features*.
-- _**Moodle for School:**
+- **Free:** $0 (50 users, 200MB*
+- **Starter:** $80/year (50 users, 200MB) with some add-on features*.
+- **Moodle for School:**
    - Mini – $250/year (100 users, 200MB)
    - Small: $500/year (200 users, 400MB)
    - Medium: $1,000/month (500 users, 1GB)*
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
  
 ## ATutor (https://github.com/atutor)
 
@@ -76,7 +76,7 @@ ATutor has many features that are backed with an easy-to-use interface. It has s
  
 - No premium options available.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Forma LMS (https://github.com/formalms)
 
@@ -107,7 +107,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 
 - No premium options available. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## OpenOLAT (https://github.com/OpenOLAT)
 
@@ -129,7 +129,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 - Library management
 - Developer-friendly
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Chamilo (https://github.com/chamilo)
 
@@ -157,7 +157,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 - Surveys
 - Social network features
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Open edX (https://github.com/edx/edx-platform)
 
@@ -172,7 +172,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 - Simple yet powerful interface
 - Professional commercial support from dozens of companies and service providers
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Opigno (https://github.com/opigno)
 
@@ -210,7 +210,7 @@ Forma LMS focuses on easing the collaboration, generating custom reports, creati
 - Collaborative workspaces
 - Events management
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 ## Sakai (https://github.com/sakaiproject/sakai)
