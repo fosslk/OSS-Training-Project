@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Objective](#objective)
+- [Objectives](#objectives)
 - [Introduction](#introduction)
     - [Why we choose](#why-we-choose)
     - [Learing outcomes](#learning-outcomes)
@@ -14,12 +14,11 @@
         - [Web Application](#web-application)
     - [Prerequisites for manual installation](#prerequisites-for-manual-installation)
     - [Installation on Ubuntu 20.04 LTS](#installation-on-ubuntu-20.04-lts)
-- [Features](#features)
 - [FAQ](#faq)
 - [References](#references)
-- [Quiz](#quiz)
 
-## Objective
+## Objectives
+---
 
 By the end of this course, you will be able to,
 - Host your own collaboration platform.
@@ -30,6 +29,7 @@ By the end of this course, you will be able to,
 
 
 ##  Introduction
+---
 
 Nextcloud is a fully featured on-premises solution to share and collabrate documents, send and receive emails, manage all audio/video conferencings, manage contact, manage schedules and etc. Next cloud is scalable from home office solutions to full sized data centre solutions that support milions of users.
 
@@ -48,6 +48,7 @@ Nextcloud can be extended with plugins to add extra functionalities to the syste
 and much more.
 
 ### Why we choose
+---
 
 Nextcloud is the most popular self-hosted EFSS (**E**nterprise **F**ile **S**ync and **S**hare) and Content Collaboration Platform. Hence following features make that Nextcloud is the best choice among others.
 
@@ -72,18 +73,27 @@ Nextcloud is the most popular self-hosted EFSS (**E**nterprise **F**ile **S**ync
         - WCAG 2.1 - compliant contrast
         - Dyslexia - friendly font
 
-- **Free client software**
-    - Nextcloud’s client apps for Android, iOS and  desktop systems allow you to manage your data, at ease.
+- **Free client softwares for common platforms**
+    - Nextcloud’s client apps for Android, iOS and desktop systems allow you to manage your data, at ease anywhere, anytime.
 
-### Learing outcomes
+### Learning outcomes
+---
 
-[TODO] fill me with a description
+**What you will learn**
+
+- Get a full understanding about what is a **E**nterprise **F**ile **S**ync and **S**hare (EFSS) system.
+- Why **Nextcloud** is outstanding perfomer among others.
+- Why you need to install **Nextcloud** as your Content Collaboration Platform.
+- How to install and configure **Nextcloud** on your on-premises linux server.
+- Other tools and plugins that you can install with parallel to **Nextcloud**.
 
 ## History
+---
 
 __Nextcloud__ was first developed in 2016. Before that, In 2016, the development of OwnCloud,  which is a open-source software, first developed in 2010, that allows you to run a personal cloud file storage service.This OwnCloud split, and many of the original developers forked the source code to create a competing product, that is NextCloud.
 
 ## Installation
+---
 
 The Nextcloud server software can be installed free of charge on Linux, and the client software can be installed on computers running Windows, OS X, or Linux. Mobile apps are also available for Android and iOS. [Check here](https://nextcloud.com/install/) for more details.
 
@@ -91,7 +101,7 @@ The Nextcloud server software can be installed free of charge on Linux, and the 
 
 Here are the recommended system requirements for running a on-premises NextCloud server in your organization.
 
-#### Server
+#### **Server**
 
 - Operating System
     - __Ubuntu 20.04 LTS (recommended)__
@@ -109,7 +119,7 @@ Here are the recommended system requirements for running a on-premises NextCloud
 - Memory
     - Memory requirements for running a NextCloud server vary depending on the number of users, files and volume of server activity. Recommended minimum memory for NextCloud server is __512MB__.
 
-#### Desktop Client
+#### **Desktop Client**
 
 For a better and stable experience use the latest version of your operating system. Below are some of the tested OS versions for popular platforms.
 
@@ -126,7 +136,7 @@ For a better and stable experience use the latest version of your operating syst
     - Debian 8 (Jessie)+
     - Red Hat Enterprise Linux 7
 
-#### Web application
+#### **Web application**
 
 For the best experience with the web interface use the latest and supported version of a browser from the following list.
 
@@ -139,10 +149,13 @@ For the best experience with the web interface use the latest and supported vers
 Up-to-date system requirements for running a next-cloud server can be found [here](https://docs.nextcloud.com/server/latest/admin_manual/installation/system_requirements.html).
 
 ### Prerequisites for manual installation
+---
 
 ### Installation on Ubuntu 20.04 LTS
+---
 
 ## FAQ
+---
 
 1. Is Nextcloud OpenSource ?
     - Yes it is.
@@ -153,9 +166,8 @@ Up-to-date system requirements for running a next-cloud server can be found [her
 
 
 ## References
+---
 
-[TODO] fill me with a description
-
-## Quiz
-
-[TODO] fill me with a description
+- [Nextcloud official website](https://nextcloud.com)
+- [Nextcloud forums](https://nextcloud.com)
+- [Nextcloud documentation](https://docs.nextcloud.com)
