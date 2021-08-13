@@ -16,7 +16,7 @@
     - [Installation on Ubuntu 20.04 LTS](#installation-on-ubuntu-20.04-lts)
 - [Features](#features)
 - [FAQ](#faq)
-    - [References](#references)
+- [References](#references)
 - [Quiz](#quiz)
 
 ## Objective
@@ -152,7 +152,7 @@ Up-to-date system requirements for running a next-cloud server can be found [her
     - The Document Management System (DMS) of University of Moratuwa is running on Nextcloud.
 
 
-### References
+## References
 
 [TODO] fill me with a description
 
