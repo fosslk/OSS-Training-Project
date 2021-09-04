@@ -2,10 +2,9 @@
 
 ## Table of contents
 
-- [Objectives](#objectives)
+- [Learing Outcomes](#learning-outcomes)
 - [Introduction](#introduction)
     - [Why we choose](#why-we-choose)
-    - [Learing outcomes](#learning-outcomes)
 - [History](#history)
 - [Installation](#installation)
     - [System requirements](#system-requirements)
@@ -13,11 +12,12 @@
         - [Desktop Client](#desktop-client)
         - [Web Application](#web-application)
     - [Prerequisites for manual installation](#prerequisites-for-manual-installation)
+    - [Apache Web server configuration](#apache-web-server-configuration)
     - [Installation on Ubuntu 20.04 LTS](#installation-on-ubuntu-20.04-lts)
 - [FAQ](#faq)
 - [References](#references)
 
-## Objectives
+## Learning Outcomes
 ---
 
 By the end of this course, you will be able to,
@@ -75,9 +75,6 @@ Nextcloud is the most popular self-hosted EFSS (**E**nterprise **F**ile **S**ync
 
 - **Free client softwares for common platforms**
     - Nextcloud’s client apps for Android, iOS and desktop systems allow you to manage your data, at ease anywhere, anytime.
-
-### Learning outcomes
----
 
 **What you will learn**
 
@@ -150,9 +147,28 @@ Up-to-date system requirements for running a next-cloud server can be found [her
 
 ### Prerequisites for manual installation
 ---
+There are several PHP modules which are required in order to install Nextcloud on an Ubuntu server. All the required PHP modules are included in the NextCloud .tar installation archive. Refer the [Nextcloud Documentation](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html#prerequisites-for-manual-installation) to find out all the required and optional PHP modules.
+
+### Apache Web server configuration
+---
+
+We have to configure the Apache Web Server in order to have pretty URLs, enable SSL, use the directory-based installation and virtual installation. Hence, we have to edit the nextcloud.conf file and configure the Apache server.
+
+Follow [this guide](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html#apache-web-server-configuration) to make the above mentioned changes. After completing all the required prerequisites and configuring the Apache web server you are ready to install Nextcloud on Ubuntu.
 
 ### Installation on Ubuntu 20.04 LTS
 ---
+
+1. Download the latest installation script.
+1. Run the script with:
+```
+sudo bash nextcloud_install_production.sh
+```
+After installing Nextcloud files, the last step to complete the installation is running the Installation Wizard.
+
+1. Point your web browser to http://localhost/nextcloud
+1. Enter your desired administrator’s username and password.
+1. Click **Finish Setup**
 
 ## FAQ
 ---
