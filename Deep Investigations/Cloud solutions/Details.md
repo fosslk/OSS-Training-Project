@@ -14,6 +14,7 @@
     - [Prerequisites for manual installation](#prerequisites-for-manual-installation)
     - [Apache Web server configuration](#apache-web-server-configuration)
     - [Installation on Ubuntu 20.04 LTS](#installation-on-ubuntu-20.04-lts)
+- [Course Content (Demonstration Videos)](#course-content-(demonstration-videos))
 - [FAQ](#faq)
 - [References](#references)
 
@@ -160,6 +161,35 @@ After installing Nextcloud files, the last step to complete the installation is 
 1. Point your web browser to http://localhost/nextcloud
 1. Enter your desired administrator’s username and password.
 1. Click **Finish Setup**
+
+### Course Content (Demonstration Videos)
+
+This section contains all videos that we are going to produce under each section. Please note that these videos can be a one video or multiple videos for the relevant section based on the video duration of each sections and subsections.
+
+1. Introduction
+    - What **E**nterprise **F**ile **S**ync and **S**hare (EFSS) system.
+    - What is Nextcloud
+    - History of Nextcloud
+    - Importance of Nextcloud
+1. Ready for Nextcloud Installation
+    - Prerequsite PHP modules
+    - Apache web server configuration
+    - Installation methods
+1. Nextcloud Installation
+    - Install Nextcloud on Ubuntu server using **Intallation script**
+    - Nextcloud Initial configurations
+    - Configure Nextcloud further
+        - Configure Data directory location
+        - Configure Database
+        - Configure Trusted domains
+1. Essential Plugin Installtion for Nextcloud
+    - Calendars
+    - Tasks
+    - Forms
+    - Ebook viewers
+    - Browser-based text editors
+    - Annoucement Center
+    - Talk (Chat, video & audio-conferencing using WebRTC)
 
 ## FAQ
 ---
