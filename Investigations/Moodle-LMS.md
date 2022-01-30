@@ -149,15 +149,10 @@ You will need a cron job to run periodically. It is recommended that the cron is
 
 Your site will not work properly unless cron is running regularly. It is very important you do not skip this step.
  
-
-
-**Congratulations!**
 You are now ready to use your Moodle site. 
 If you run into problems, check the Installation FAQ and visit the Installation help forum.
 
 ---
-
-(University : ICBT Kandy Campus)
 
 Contributors;
 1. Poojith Obeysekara
