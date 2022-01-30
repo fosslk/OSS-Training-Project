@@ -1,9 +1,5 @@
 Moodle Learning Management System
 
-======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-Moodle Learning Management System
-
 => Introduction
 
 * Moodle also known as (Modular Object-Oriented Dynamic Learning Environment) is a free and open source online Learning Management System that allows instructors to establish their own private website with dynamic courses that allow students to learn at their own pace, anywhere at any time.
