@@ -119,12 +119,12 @@ mysql> GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,CREATE TEMPORARY TABLES,DROP,IND
 
 Notes: It is important to GRANT ON moodle.* as the database name including the .* and not just the bare database name. Save this password you use for the Moodle user, since you will need it later in the install.
 
-## 3) Create data directory
+### 3) Create data directory
 Create an empty directory to hold Moodle files. It must not be in the area served by the web server and must have permissions so that the web server user can write to it. Other than that it can be located anywhere. Typically, either make it owned by the web server user or give it write permissions for 'everyone'. If it is on a shared/NFS drive then read Caching - Moodle caches to this disk area by default and a slow share will mean terrible performance.
 
 
 
-## 4) Install Moodle code
+### 4) Install Moodle code
 
 If you downloaded the zip or tgz file earlier, then unzip / untar / move / copy the Moodle code (obtained above) so that it will be served by your web server (e.g. on Debian based Linux, move to /var/www/html/moodle)
 Check the permissions and make sure that the web server does not have permissions to write to any of the files in the Moodle code directories (a very common root cause of sites being hacked).
@@ -136,7 +136,7 @@ Note: the Moodle install script will create config.php for you if it does not ex
 
 
 
-## 5) Install Moodle
+### 5) Install Moodle
 
 Go to the URL for your moodle site in a browser (installation will complete automatically) or run the command line version at (requires cli version of PHP):
 /usr/bin/php /path/to/moodle/admin/cli/install.php
