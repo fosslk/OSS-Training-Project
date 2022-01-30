@@ -11,7 +11,7 @@ Moodle Learning Management System
 
 
 
-=> History
+## History
 
 * Martin Dougiamas designed the Moodle platform while pursuing a postgraduate degree at Curtin University of Technology in Australia. In 2002, he worked as a university Webmaster and a system administrator for the WebCT installation. He began developing Moodle in order to fix some issues with WebCT. 
 
