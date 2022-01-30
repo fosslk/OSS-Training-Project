@@ -145,7 +145,7 @@ The CLI creates the config.php for you and will not run if you created one in th
 After completing the install make sure your file permissions are ok for the Moodle program files (not writeable by web server) and the Moodle data files (writeable by web server).
 Set up cron
 You will need a cron job to run periodically. It is recommended that the cron is run every minute, as required for asynchronous activity deletion when using the recycle bin. A typical Unix cron entry will be as follows:
-* * * * *    /usr/bin/php /path/to/moodle/admin/cli/cron.php >/dev/null
+`/usr/bin/php /path/to/moodle/admin/cli/cron.php >/dev/null`
 
 Your site will not work properly unless cron is running regularly. It is very important you do not skip this step.
  
