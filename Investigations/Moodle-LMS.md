@@ -160,8 +160,8 @@ If you run into problems, check the Installation FAQ and visit the Installation 
 
 (University : ICBT Kandy Campus)
 
-Contributors :  Poojith Obeysekara
-                Deshan Wickramaarachchi
-                Bishmi Dissanayake
+Contributors : => Poojith Obeysekara
+               => Deshan Wickramaarachchi
+               => Bishmi Dissanayake
 
 
